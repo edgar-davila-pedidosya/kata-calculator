@@ -19,7 +19,7 @@ You must validate the division by zero, don’t let the default exception trigge
 - “3%1” must return 0
 - All previous operations must be combinable with divisions and mod
 
-## Thitd iteration: Parenthesis
+## Third iteration: Parenthesis
 We are now required to respect the rules of the parenthesis and apply those operations in order, for example:
 - “(2+1)*4” must return 12
 - “2+(1*4)” must return 8
